@@ -11,6 +11,10 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Added Raspberry Pi 4B with MainsailOS
 - 1st Startup
 - Install updates for MainsailOS
+- Upload first config
+- Added main values for motors
+- Added main vaules for thermistors
+- Fixed macros
 
 # Filelog
 26.07.2024
