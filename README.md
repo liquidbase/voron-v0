@@ -22,3 +22,4 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 
 27.07.2024
 - Added rear_panel.3mf
+- Added default printer.cfg for BTT SKR Pico
