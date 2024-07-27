@@ -15,6 +15,9 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Added main values for motors
 - Added main vaules for thermistors
 - Fixed macros
+- Adjusted bed direction
+- Adjusted StallGuard
+- PID-Tuning für bed and nozzle
 
 # Filelog
 26.07.2024
