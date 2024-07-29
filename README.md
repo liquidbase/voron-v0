@@ -19,6 +19,10 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Adjusted StallGuard
 - PID-Tuning für bed and nozzle
 
+29.07.2024
+- Added Display
+- Added KlipperScreen
+
 # Filelog
 26.07.2024
 - Added RPi_or_BTT-Pico_Mount.STL
@@ -30,3 +34,8 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 27.07.2024
 - Added rear_panel.3mf
 - Added default printer.cfg for BTT SKR Pico
+
+29.09.2024
+- Added printfiles for handles
+- Added new pictures
+- Added KlipperScreen
