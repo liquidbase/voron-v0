@@ -23,6 +23,18 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Added Display
 - Added KlipperScreen
 
+30.07.2024
+- Added Shaketune
+- Added Input Shaper LIS2DW
+- Added frequencies
+- Adjust frequencies
+
+04.08.2024
+- Disabled LIS2DW
+- Layout Adjustments
+- Configure Crowsnest
+- Configure Neopixel
+
 # Filelog
 26.07.2024
 - Added RPi_or_BTT-Pico_Mount.STL
@@ -35,8 +47,16 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Added rear_panel.3mf
 - Added default printer.cfg for BTT SKR Pico
 
-29.09.2024
+29.07.2024
 - Added printfiles for handles
 - Added new pictures
 - Added KlipperScreen
-- Added MFNano 
+- Added MFNano
+
+30.07.2024
+- Added ADXL Mount to printfiles
+
+04.08.2024
+- Removed MFNano
+- Added Thermistormount in Chamber V0.2_NTC_10k_B3950_Mount.stl
+- Added crowsnest.conf
