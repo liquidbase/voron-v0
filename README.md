@@ -60,3 +60,6 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Removed MFNano
 - Added Thermistormount in Chamber V0.2_NTC_10k_B3950_Mount.stl
 - Added crowsnest.conf
+
+06.08.2024
+- Added waveshare-43-inch-display-mount-for-the-voron-v01-model_files
