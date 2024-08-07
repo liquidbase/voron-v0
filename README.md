@@ -63,3 +63,6 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 
 06.08.2024
 - Added waveshare-43-inch-display-mount-for-the-voron-v01-model_files
+
+07.08.2024
+- Added printfiles for LED-brackets, bottom hinge and Cam mount
