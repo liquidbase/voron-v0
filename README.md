@@ -37,6 +37,7 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 
 08.08.2024
 - Added macro to control chamber led
+- Better names
 
 # Filelog
 26.07.2024
