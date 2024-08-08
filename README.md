@@ -35,6 +35,9 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Configure Crowsnest
 - Configure Neopixel
 
+08.08.2024
+- Added macro to control chamber led
+
 # Filelog
 26.07.2024
 - Added RPi_or_BTT-Pico_Mount.STL
