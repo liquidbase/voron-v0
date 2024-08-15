@@ -39,6 +39,28 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Added macro to control chamber led
 - Better names
 
+09.08.2024
+- Adjust wait-time before print start
+- Adjust value
+- Added excluded_objects and adjusted run_current for X & Y
+- Adjust Z-Endstop-Position
+- Change invert on X & Y
+- Added v0.2 CAD-File to .gitignore
+
+13.08.2024
+- Renamed comment
+- Revert neopixel changes
+- Adjusted neopixel color
+- Adjusted position_endstop and max_temp
+
+14.08.2024
+- Enabled Line_Purge, Voron_Purge & Smart_Park
+- Added KAMP for automatic Update
+
+15.08.2024
+- Changed chain_count for Neopixel
+- Added better position after homing
+
 # Filelog
 26.07.2024
 - Added RPi_or_BTT-Pico_Mount.STL
@@ -70,3 +92,11 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 
 07.08.2024
 - Added printfiles for LED-brackets, bottom hinge and Cam mount
+
+14.08.2024
+- Added moonraker.conf
+- Added KAMP_Settings.cfg
+
+15.08.2024
+- Added diffuser print files
+- Added print file for Front_Top_Right_Hinge_x1.stl
