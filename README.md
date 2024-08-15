@@ -60,6 +60,7 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 15.08.2024
 - Changed chain_count for Neopixel
 - Added better position after homing
+- Added timelapse
 
 # Filelog
 26.07.2024
