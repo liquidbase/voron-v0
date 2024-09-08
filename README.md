@@ -101,3 +101,6 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 15.08.2024
 - Added diffuser print files
 - Added print file for Front_Top_Right_Hinge_x1.stl
+
+08.09.2024
+- Added print files for Endstops
