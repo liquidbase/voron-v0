@@ -62,6 +62,10 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Added better position after homing
 - Added timelapse
 
+14.09.2024
+- Update temperatur for extruder and extrude distance
+- Removed wait time and changed retract on print end
+
 # Filelog
 26.07.2024
 - Added RPi_or_BTT-Pico_Mount.STL
@@ -104,3 +108,8 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 
 08.09.2024
 - Added print files for Endstops
+
+14.09.2024
+- Added print files for 1515 end caps
+- Added print files for Dragon Burner v8 with Orbiter v2
+- Added print files for Dragon Burner v8 with Sherpa Mini
