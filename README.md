@@ -72,6 +72,10 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Added printer.cfg for Manta M5P after MCU change
 - Removed uart_address
 
+26.10.2024
+- Added fan configuration
+- Fixed neopixel pin
+
 # Filelog
 26.07.2024
 - Added RPi_or_BTT-Pico_Mount.STL
@@ -122,3 +126,6 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 
 22.10.2024
 - Added additional printfiles
+
+26.10.2024
+- Added printfiles for endstops
