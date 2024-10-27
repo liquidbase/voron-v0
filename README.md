@@ -76,6 +76,9 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 - Added fan configuration
 - Fixed neopixel pin
 
+27.10.2024
+- Added chamber thermistor
+
 # Filelog
 26.07.2024
 - Added RPi_or_BTT-Pico_Mount.STL
@@ -129,3 +132,6 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 
 26.10.2024
 - Added printfiles for endstops
+
+27.10.2024
+- Added printfile for upper rear filament sensor
