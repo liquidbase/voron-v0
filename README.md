@@ -86,6 +86,7 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 05.11.2024
 - Added temperature sensors for mcu and host
 - Added stepper config
+- Fixed extruder
 
 # Filelog
 26.07.2024
@@ -143,3 +144,7 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 
 27.10.2024
 - Added printfile for upper rear filament sensor
+
+05.11.2024
+- Added printfiles for foot corner
+- Added printfiles for skirts
