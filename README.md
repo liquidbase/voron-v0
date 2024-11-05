@@ -79,6 +79,14 @@ Config repo for voron v0 to save the configuration and monitor changes made.
 27.10.2024
 - Added chamber thermistor
 
+04.11.2024
+- Fixed printer-section
+- ReEnabled Sensorless homing
+
+05.11.2024
+- Added temperature sensors for mcu and host
+- Added stepper config
+
 # Filelog
 26.07.2024
 - Added RPi_or_BTT-Pico_Mount.STL
